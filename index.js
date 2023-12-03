@@ -12,7 +12,7 @@
 // Part 1 answer 👇🏻 ...
 
 const fullName = "Amal Saad Alzabi";
-const yearOfBirth = 1996;
+const yearOfBirth = 1999;
 let hobby = "coding";
 let funFact = "fun fact";
 
@@ -32,9 +32,9 @@ const image =
  * You can uncomment a line by removing the // at the start
  */
 
-fullNameString = `My name is ${fullName}`;
-yearOfBirthString = `I'm ${2023 - yearOfBirth}`;
-hobbyString = `my hobby is${hobby}`;
+const fullNameString = `My name is ${fullName}`;
+const yearOfBirthString = `I'm ${2023 - yearOfBirth}`;
+const hobbyString = `my hobby is${hobby}`;
 
 /**
  * Part 3: Re-assignment
